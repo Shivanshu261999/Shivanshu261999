@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shivanshu261999
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...open source projects
+- 👋 Hi, I’m @Shivanshu Kamboj
+- 👀 I’m interested in ...Web developement, Android Programming,API creation,
+- 🌱 I’m currently learning ...FLutter
+- 💞️ I had previously worked on Android Projects, Web API creation, AWS.
 - 📫 How to reach me ...shivanshukamboj333@gmail.com
 
 <!---
