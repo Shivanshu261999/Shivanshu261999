@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivanshu Kamboj
-- 👀 I’m interested in ...Web developement, Android Programming,API creation,
 - SalesForce Developer
+- 👀 I’m interested in ...Web developement, Android Programming,API creation,
 - 🌱 I’m currently learning ...FLutter
 - 💞️ I had previously worked on Android Projects, Web API creation, AWS.
 - 📫 How to reach me ...shivanshukamboj333@gmail.com
